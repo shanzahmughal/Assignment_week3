@@ -1,41 +1,5 @@
-{
-  "metadata": {
-    "kernelspec": {
-      "name": "xpython",
-      "display_name": "Python 3.13 (XPython)",
-      "language": "python"
-    },
-    "language_info": {
-      "codemirror_mode": {
-        "name": "ipython",
-        "version": 3
-      },
-      "file_extension": ".py",
-      "mimetype": "text/x-python",
-      "name": "python",
-      "nbconvert_exporter": "python",
-      "pygments_lexer": "ipython3",
-      "version": "3.13.1"
-    }
-  },
-  "nbformat_minor": 5,
-  "nbformat": 4,
-  "cells": [
-    {
-      "id": "206108c0-52c1-4aae-bf21-e0efae24540d",
-      "cell_type": "markdown",
-      "source": "# Assignment 3: Attempt Before AI\n\n* **[O]** The median course fee in our dataset is Rs. 120,000, while the mean is Rs. 116,428.\n* **[O]** For student marks, the mean score is 79.7 and the median score is 81.5.\n* **[E]** (explanation) The course fee mean is lower because a few partial scholarship or reduced fee entries skew the average downward.\n* **[C]** (claim) Lower income brackets directly caused students to apply for these fee reductions.",
-      "metadata": {}
-    },
-    {
-      "id": "0c7796be-6407-49de-9475-69292191661d",
-      "cell_type": "code",
-      "source": "",
-      "metadata": {
-        "trusted": true
-      },
-      "outputs": [],
-      "execution_count": null
-    }
-  ]
-}
+Assignment 3: Attempt Before AI
+[O] The median course fee in our dataset is Rs. 120,000, while the mean is Rs. 116,428.
+[O] For student marks, the mean score is 79.7 and the median score is 81.5.
+[E] (explanation) The course fee mean is lower because a few partial scholarship or reduced fee entries skew the average downward.
+[C] (claim) Lower income brackets directly caused students to apply for these fee reductions.
